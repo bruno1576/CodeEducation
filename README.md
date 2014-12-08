@@ -15,8 +15,19 @@ título da secção
 título da sub secção 
 ------------------
 
+> Isto é um parágrafo citado 
+> separado em duas linhas
 
 > Isto é uma citação num único 
+parágrafo apesar de estar dividido 
+em várias linhas.
+Isto é uma citação num único 
+parágrafo apesar de estar dividido 
+em várias linhas.
+Isto é uma citação num único 
+parágrafo apesar de estar dividido 
+em várias linhas.
+Isto é uma citação num único 
 parágrafo apesar de estar dividido 
 em várias linhas.
 
