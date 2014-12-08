@@ -14,3 +14,15 @@ título da secção
 
 título da sub secção 
 ------------------
+
+
+> Isto é uma citação num único 
+parágrafo apesar de estar dividido 
+em várias linhas.
+
+
+Um [exemplo de apontador](http://exemplo.pt/ "Título opcional") dentro de uma frase.
+
+*itálico* -> itálico
+**negrito** -> negrito
+***negrito itálico*** ->negrito itálico
